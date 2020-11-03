@@ -2,9 +2,9 @@
 
 This repository contain all the 3D model designed for the 3Drag 3D printer's extruder @ [+LAB](www.piulab.it).
 
-![](https://img.shields.io/github/license/am-craft/3Drag_LDM_extruder?style=plastic)
-![](https://img.shields.io/github/manifest-json/v/am-craft/3Drag_LDM_extruder?style=plastic)
 ![](https://img.shields.io/badge/CAD-fusion360-orange?style=plastic&logo=autodesk)
+![](https://img.shields.io/github/license/am-craft/3Drag_LDM_extruder?color=green&style=plastic)
+![](https://img.shields.io/github/v/release/am-craft/3Drag_LDM_extruder?style=plastic)
 
 
 LDM (liquid Deposition Modeling) is a particular 3D printer process in which viscous fluid are extruded from a reservoir and deposited on the build plate. This process is more generally called Direct Ink Writing (DIW).
