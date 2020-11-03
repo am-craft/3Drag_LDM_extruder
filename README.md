@@ -2,10 +2,7 @@
 
 This repository contain all the 3D model designed for the 3Drag 3D printer's extruder @ [+LAB](www.piulab.it).
 
-[![travis](https://travis-ci.org/xoseperez/ttgo-beam-tracker.svg)](https://travis-ci.org/xoseperez/ttgo-beam-tracker)
-[![license](https://img.shields.io/github/license/xoseperez/ttgo-beam-tracker.svg)](LICENSE)
-[![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=xose%2eperez%40gmail%2ecom&lc=US&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest)
-[![twitter](https://img.shields.io/twitter/follow/xoseperez.svg?style=social)](https://twitter.com/intent/follow?screen_name=xoseperez)
+https://img.shields.io/github/license/am-craft/3Drag_LDM_extruder?style=plastic
 
 
 LDM (liquid Deposition Modeling) is a particular 3D printer process in which viscous fluid are extruded from a reservoir and deposited on the build plate. This process is more generally called Direct Ink Writing (DIW).
