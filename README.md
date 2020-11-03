@@ -1,6 +1,6 @@
 # 3Drag LDM extruder
 This repository contain all the 3D model designed for the 3Drag 3D printer's extruder @ [+LAB](www.piulab.it).
-[![Licence]()
+[![Licence]()]
 
 LDM (liquid Deposition Modeling) is a particular 3D printer process in which viscous fluid are extruded from a reservoir and deposited on the build plate. This process is more generally called Direct Ink Writing (DIW).
 
