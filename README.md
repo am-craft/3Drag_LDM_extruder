@@ -2,6 +2,7 @@
 
 This repository contain all the 3D model designed for the 3Drag 3D printer's extruder @ [+LAB](www.piulab.it).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4283445.svg)](https://doi.org/10.5281/zenodo.4283445)
 ![](https://img.shields.io/badge/CAD-fusion360-orange?style=plastic&logo=autodesk)
 ![](https://img.shields.io/github/license/am-craft/3Drag_LDM_extruder?color=green&style=plastic)
 ![](https://img.shields.io/github/v/release/am-craft/3Drag_LDM_extruder?style=plastic)
