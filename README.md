@@ -3,11 +3,11 @@
 This repository contain all the 3D model designed for the 3Drag 3D printer's extruder @ [+LAB](www.piulab.it).
 
 ![](https://img.shields.io/badge/CAD-fusion360-orange?style=plastic&logo=autodesk)
-![](https://img.shields.io/github/license/piuLAB-official/3Drag_LDM_extruder?color=green&style=plastic)
-![](https://img.shields.io/github/v/release/piuLAB-official/3Drag_LDM_extruder?style=plastic)
+![](https://img.shields.io/github/license/am-craft/3Drag_LDM_extruder?color=green&style=plastic)
+![](https://img.shields.io/github/v/release/am-craft/3Drag_LDM_extruder?style=plastic)
 
 
-```LDM (liquid Deposition Modeling) is a particular 3D printer process in which viscous fluid are extruded from a reservoir and deposited on the build plate. This process is more generally called Direct Ink Writing (DIW).```
+LDM (liquid Deposition Modeling) is a particular 3D printer process in which viscous fluid are extruded from a reservoir and deposited on the build plate. This process is more generally called Direct Ink Writing (DIW).
 
 The third version of the LDM extruder was developed with the porpuse of making a modular extruder, easy to assemble and disasseble.
 - The syringe holder is stronger of the previour version and can be used to easily mount syringe from 10ml to 60ml.
