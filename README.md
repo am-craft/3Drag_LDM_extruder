@@ -16,6 +16,7 @@ The third version of the LDM extruder was developed with the porpuse of making a
 - The syringe holder is stronger of the previour version and can be used to easily mount syringe from 10ml to 60ml.
 - The extruder assembly is divided into three main parts. If one component broke you can easily switch is without disassembling all the extruder.
 - The completely redesigned drive unit is stronger and smoother. The M8 screw has been substituted with a T8 lead screw. Two version are available with a 2:1 and 4:1 reduction. Higher reduction provide higher extrusion force. _DEFAULT_AXIS_STEPS_PER_UNIT_ for E motor have to be modified following the following equation:
+
 ![](https://latex.codecogs.com/svg.latex?Esteps/mm=\frac{motorSteps*microsteps*gearMultiply}{8})
 
 [BOM](https://github.com/am-craft/3Drag_LDM_extruder/blob/main/BOM.md)
